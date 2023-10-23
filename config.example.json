@@ -1,0 +1,11 @@
+{
+  "event_id": "your_event_id",
+  "chapter_id": "your_chapter_id",
+  "cookie": {
+    "csrftoken": "your_csrf_token",
+    "__zlcmid": "your_zendesk_cookie",
+    "correlation_key": "\"your_correlation_cookie\"",
+    "sessionid": "your_session_id",
+    "cookie_consent_is_true": "true"
+  }
+}
